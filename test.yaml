@@ -2,3 +2,5 @@ payload:
   - DOMAIN-SUFFIX,baidu.com
   - IP-CIDR,1.1.1.1,no-resolve
   - IP-CIDR,1.0.0.1,no-resolve
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,whatspp.net
